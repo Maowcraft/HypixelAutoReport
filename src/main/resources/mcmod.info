@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "hypixelautoreport",
+        "name": "Hypixel Auto-Report",
+        "description": "A client-side mod specifically made to be used on Hypixel, chatreports and log users spamming TheMcZone links.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Maowcraft"],
+        "credits": "Maowcraft",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
