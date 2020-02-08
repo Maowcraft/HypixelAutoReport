@@ -1,5 +1,5 @@
 # Hypixel Auto Report
-Hypixel Auto-Report: Automatically ignores/reports TheMcZone ad bots (Includes Anti-AFK)
+Hypixel Auto-Report: Automatically ignores/reports TheMcZone ad bots.
 
 ## Side Note
 Do not blame TheMcZone for these bots, this mod was meant to help the server.
