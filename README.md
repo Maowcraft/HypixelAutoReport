@@ -1,4 +1,4 @@
-# Hypixel Auto Report
+# Hypixel Auto-Report
 Hypixel Auto-Report: Automatically ignores/reports bots advertising TheMcZone.
 
 ## Side Note
