@@ -1,0 +1,6 @@
+Due to specific reasons, I will not be uploading the mod's chat filter here.
+If you wish to make your own, go ahead and do so, it'll work as long as you supply it with string arrays!
+But, as of right now, I don't want any changes made to how these bots act, so making sure most of the filter is kept secret is important.
+Thank you for understanding, if you do.
+
+-Maowcraft
