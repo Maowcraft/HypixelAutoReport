@@ -9,3 +9,5 @@ These bots were purchased or created by a random, unknown individual who wanted 
 ## Disclaimer!
 
 Do not run this mod server-side! The server WILL crash! This is a client-side mod ONLY.
+
+The source code is NOT fully functional on the repository, it is missing the filter list I use to block multiple message variants, this is  to preserve the security of the list itself.
