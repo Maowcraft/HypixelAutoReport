@@ -1,16 +1,16 @@
 [
-    {
-        "modid": "hypixelautoreport",
-        "name": "Hypixel Auto-Report",
-        "description": "A client-side mod specifically made to be used on Hypixel, chatreports and log users spamming TheMcZone links.",
-        "version": "${version}",
-        "mcversion": "${mcversion}",
-        "url": "",
-        "updateUrl": "",
-        "authorList": ["Maowcraft"],
-        "credits": "Maowcraft",
-        "logoFile": "",
-        "screenshots": [],
-        "dependencies": []
-    }
+{
+  "modid": "hypixelautoreport",
+  "name": "Hypixel Auto-Report",
+  "description": "Cuts down on TheMcZone spam ad-bots on Hypixel and (hopefully) other servers - Configurable!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Maowcraft/HypixelAutoReport/tree/master",
+  "updateUrl": "",
+  "authorList": ["Maowcraft"],
+  "credits": "Maowcraft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
 ]
