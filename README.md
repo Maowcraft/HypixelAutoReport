@@ -1,5 +1,6 @@
 # Hypixel Auto-Report
 [![License](https://img.shields.io/badge/License-CC0%201.0-blue)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
+[![CurseForge](http://cf.way2muchnoise.eu/title/hypixel-auto-report.svg)](https://minecraft.curseforge.com/projects/hypixel-auto-report)
 
 Hypixel Auto-Report: Automatically ignores/reports bots advertising TheMcZone.
 
