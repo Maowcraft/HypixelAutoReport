@@ -1,4 +1,5 @@
 # Hypixel Auto-Report
+[![License](https://img.shields.io/badge/License-CC0%201.0-blue)]
 Hypixel Auto-Report: Automatically ignores/reports bots advertising TheMcZone.
 
 ## Side Note
