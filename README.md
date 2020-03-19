@@ -4,11 +4,6 @@
 
 Hypixel Auto-Report: Automatically ignores/reports bots advertising TheMcZone.
 
-## Side Note
-Do not blame TheMcZone for these bots, this mod was meant to help the server.
-
-These bots were purchased or created by a random, unknown individual who wanted to harm the server by getting people to flood it with toxicity and hate. The owner of the server even gave a bit of help with the creation of this mod! Please, stop joining to spam the server, you're just giving the bot owner what they want.
-
 ## Disclaimer!
 
 Do not run this mod server-side! The server WILL crash! This is a client-side mod ONLY.
